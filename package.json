@@ -1,6 +1,6 @@
 {
+  "homepage": "https://jaiwincr7.github.io/gym",
   "name": "gym",
-  "homepage": "https://Gymwebsite.github.io/my-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
