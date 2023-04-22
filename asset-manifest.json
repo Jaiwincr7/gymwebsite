@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Jaiwincr7.github.io/gymwebsite/static/css/main.c90c6f16.css",
-    "main.js": "/Jaiwincr7.github.io/gymwebsite/static/js/main.6be8dadd.js",
+    "main.js": "/Jaiwincr7.github.io/gymwebsite/static/js/main.4c0c0713.js",
     "static/media/background.jpg": "/Jaiwincr7.github.io/gymwebsite/static/media/background.f4435c8f764bcf20e01c.jpg",
     "index.html": "/Jaiwincr7.github.io/gymwebsite/index.html",
     "main.c90c6f16.css.map": "/Jaiwincr7.github.io/gymwebsite/static/css/main.c90c6f16.css.map",
-    "main.6be8dadd.js.map": "/Jaiwincr7.github.io/gymwebsite/static/js/main.6be8dadd.js.map"
+    "main.4c0c0713.js.map": "/Jaiwincr7.github.io/gymwebsite/static/js/main.4c0c0713.js.map"
   },
   "entrypoints": [
     "static/css/main.c90c6f16.css",
-    "static/js/main.6be8dadd.js"
+    "static/js/main.4c0c0713.js"
   ]
 }
