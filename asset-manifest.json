@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Jaiwincr7.github.io/gym/static/css/main.c90c6f16.css",
-    "main.js": "/Jaiwincr7.github.io/gym/static/js/main.621278c5.js",
-    "static/media/background.jpg": "/Jaiwincr7.github.io/gym/static/media/background.f4435c8f764bcf20e01c.jpg",
-    "index.html": "/Jaiwincr7.github.io/gym/index.html",
-    "main.c90c6f16.css.map": "/Jaiwincr7.github.io/gym/static/css/main.c90c6f16.css.map",
-    "main.621278c5.js.map": "/Jaiwincr7.github.io/gym/static/js/main.621278c5.js.map"
+    "main.css": "/Jaiwincr7.github.io/gymwebsite/static/css/main.c90c6f16.css",
+    "main.js": "/Jaiwincr7.github.io/gymwebsite/static/js/main.6be8dadd.js",
+    "static/media/background.jpg": "/Jaiwincr7.github.io/gymwebsite/static/media/background.f4435c8f764bcf20e01c.jpg",
+    "index.html": "/Jaiwincr7.github.io/gymwebsite/index.html",
+    "main.c90c6f16.css.map": "/Jaiwincr7.github.io/gymwebsite/static/css/main.c90c6f16.css.map",
+    "main.6be8dadd.js.map": "/Jaiwincr7.github.io/gymwebsite/static/js/main.6be8dadd.js.map"
   },
   "entrypoints": [
     "static/css/main.c90c6f16.css",
-    "static/js/main.621278c5.js"
+    "static/js/main.6be8dadd.js"
   ]
 }
